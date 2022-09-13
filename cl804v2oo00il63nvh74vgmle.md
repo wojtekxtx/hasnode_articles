@@ -17,7 +17,7 @@ We have divided the mega list of tools into categories. Here are those categorie
 - Productivity⌛
 - Miscellaneous Tool🔎
 
-We will discuss tools and resources for other techs such as React, Frontend, Backend, and others in the future. Follow me on Twitter([@surajondev](https://twitter.com/surajondev)) to get notified for further parts. 
+We will discuss tools and resources for other techs such as React, Frontend, Backend, and others in the future. 
 
 So, let's get started to explore these tools.
 
