@@ -130,13 +130,6 @@ It’s an online game to play while learning CSS flexbox. It is simple, as you w
 
 Habits are one of the building blocks for achieving bigger goals. I have been using Habiticas for managing my to-do list along with building habits. It’s a gamified version of a to-do list with a variety of stuff to do. I like how Habitica manages recurring tasks and habits.
 
-# Connect With Me
-
-- [Twitter](https://twitter.com/surajondev)
-- [LinkedIn](https://www.linkedin.com/in/surajondev/)
-
 # Conclusion
  
 I hope, these tools will help you. Thanks for reading the blog post.
-
-Get the full ebook through https://surajondev.gumroad.com/l/50-tools-web-developers. 
