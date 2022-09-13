@@ -2,7 +2,7 @@
 
 # Introduction
 
-The second part of the awesome tools for a web developer is here. You loved the first part. 
+The second part of the awesome tools for a web developer is [here](https://furiousdev.hashnode.dev/tools-for-web-developer-part-1).
 
 So let's dive into the resources.
 
@@ -71,13 +71,6 @@ Website Speed Test is a tool by KeyCDN. It can run the test from 10 different lo
 
 The insights will be presented in form of a pie diagram which makes it easy to understand the data. 
 
-# Connect With Me🔗
-
-### [Twitter](https://twitter.com/surajondev)
-### [LinkedIn](https://www.linkedin.com/in/surajondev/)
-
 # Conclusion
 
 Thanks for reading the blog post. I hope I helped you in discovering tools that will help you in your productivity and creativity. 
-
-You can follow me to know about the further part of the series. 
