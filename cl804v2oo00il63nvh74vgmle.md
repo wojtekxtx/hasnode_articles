@@ -1,4 +1,4 @@
-## 50+ Awesome tools for Web Developers
+## 50+ tools for Web Developers
 
 # Introduction
 
