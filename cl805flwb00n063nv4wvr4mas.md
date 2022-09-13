@@ -1,4 +1,4 @@
-## Awesome tools for Web Developer - Part 1
+## Tools for Web Developer - Part 1
 
 # Introduction
 
