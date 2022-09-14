@@ -98,11 +98,3 @@ Glad you asked! Let's dive into the **React Tools** that are worth diving into. 
 That's the **Complete React Roadmap**. Hope that helps you plan out your journey to become a ground-breaking **React Developer**.
 
 **Happy Developing!**
-
-Did I miss something? Share it in the comments below 👇
-
-Want to see an **Advanced React Project** built from scratch? Check out
-
-{% github https://github.com/ruppysuppy/Crypto-Crowdfund no-readme %}
-
-Research says, **writing down your goals on pen & paper** makes you **21%** to **39%** more likely to achieve them. Check out these notebooks and journals to **make the journey of achieving your dreams easier**: [https://www.amazon.com/Tapajyoti-Bose/e/B09VGDDHRR](https://www.amazon.com/Tapajyoti-Bose/e/B09VGDDHRR)
