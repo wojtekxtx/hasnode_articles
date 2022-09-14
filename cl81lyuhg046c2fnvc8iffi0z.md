@@ -10,10 +10,6 @@ To use flexbox, in your website, you need to include the following **CSS**:
 }
 ```
 
-Now, let's dive in
-
-![dive](https://cdn.hashnode.com/res/hashnode/image/upload/v1663157898594/aX_RSjdee.gif)
-
 ## Flex Direction
 
 The `flex-direction` property controls the direction of the `flex` container's **main axis** and its perpendicular **cross axis**.
