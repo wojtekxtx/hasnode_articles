@@ -12,7 +12,11 @@ The primary purpose of using the **Class Component** was to obtain access to the
 
 Let’s look at the **Hooks** that ship with **React**. It is assumed that you are familiar with the basics of **React**
 
-# useState
+# Hooks
+
+Bear in mind that hooks presented below are only examples. There are many more hooks available out there.
+
+## useState
 
 The `useState` hook is used to create thing called `state variable`.
 
@@ -59,7 +63,7 @@ class Counter extends React.Component {
 
 Not only does **Functional Components** are more performant, but they are also easier to read and understand.
 
-# useEffect
+## useEffect
 
 `useEffect` is another standard **Hook**. Its principal purpose is to execute life cycle methods in a **Functional Component**.
 
@@ -212,7 +216,7 @@ function Counter() {
 }
 ```
 
-# Custom Hooks
+## Custom Hooks
 
 **React** also allows developers to create their own **Hooks** from scratch.
 
