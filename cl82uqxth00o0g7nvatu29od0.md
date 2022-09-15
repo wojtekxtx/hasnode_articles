@@ -101,7 +101,7 @@ useEffect(() => {
 }, []);
 ```
 
-### useContext
+## useContext
 
 The `useContext` **Hook** allows you to access the context, the **state management solution** that ships with **React**. The syntax is const `<varName> = useContext(<Context>)`.
 
@@ -119,7 +119,7 @@ function Counter() {
 
 **NOTE:** The Component needs to be wrapped in a `Context.Provider Component` as it looks up the **React Virtual DOM** for the Context
 
-### useRef
+## useRef
 
 `useRef` is a **Hook** that allows you to store a **variable that persists** between the re-renders.
 
