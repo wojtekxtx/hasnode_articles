@@ -216,7 +216,7 @@ function Counter() {
 }
 ```
 
-## Custom Hooks
+# Custom Hooks
 
 **React** also allows developers to create their own **Hooks** from scratch.
 
