@@ -49,7 +49,7 @@ Let's now dive into the Intermediate **React** topics
 
     Often people avoid learning the _difficult concepts_ such as `memo` and `ref`, but that's a bad idea as if you are building anything of **real-world significance**, your application will definitely _rely heavily_ on these. Moreover using `context` allows you to avoid the `prop chaining` issue discussed previously.
 
-    **React** also allows you to create **custom hooks** to cater to your personal need, which you should also look into. If you want to master **Hooks**, you should definitely check out [this article](https://dev.to/ruppysuppy/react-hooks-gotta-hook-em-all-78b)
+    **React** also allows you to create **custom hooks** to cater to your personal need, which you should also look into. If you want to master **Hooks**, you should definitely check out [this article](https://furiousdev.hashnode.dev/react-hooks)
 
 3. **Portals**: Occasionally you will run into edge cases where, you _styling elements_ such as **modal** to _render on top of elements further down the **DOM** tree_ becomes a nightmare. In such cases, **Portals** are there to help you out, they allow you to render elements outside the default **React Root Element**, making it _far easier to not only style_, but even _group elements together_
 
@@ -67,7 +67,7 @@ Put your knowledge to the test with these _advanced skills_
 
 1. **Webpack & Babel**: None of the **JSX** you write can be _understood by a browser_, so it has to be `transpiled` into regular **JS** for Browser to execute it. The transpilation process is handled by **Babel** and bundling everything into a single file is done by **Webpack**.
 
-    To truly understand _how everything fits in_, you need to build a **React App** from scratch, check out [this article](https://dev.to/ruppysuppy/create-react-app-from-scratch-like-a-pro-de0) to know how to do it.
+    To truly understand _how everything fits in_, you need to build a **React App** from scratch, check out [this article](https://furiousdev.hashnode.dev/create-react-app-from-scratch-like-a-pro) to know how to do it.
 
 2. **Testing**: **Testing** is something very few people actually enjoy doing, as it falls under the category of **"dark work"**, where the things you _doesn't make any visible changes_. But for large applications, it is of _crucial importance_ as _a small change might end up breaking the entire application_.
 
