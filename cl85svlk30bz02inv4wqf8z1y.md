@@ -26,8 +26,6 @@ They can be utilized to add **interactivity** (**updating a button style when ho
 
 # Create Eye-catching animations
 
-{% codepen https://codepen.io/ruppysuppy/pen/YzpBLBM %}
-
 Want to make your site stand out? **Animations** is a great tool to achieve just that!
 
 It can be as simple as adding the `transition` property to an **element** used in combination with **pseudo-classes** or something more complex like creating a **custom animation** using `keyframes`.
