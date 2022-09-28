@@ -99,7 +99,7 @@ const Component = () => {
 };
 ```
 
-### Why is it not advisable to update `state` directly, but use the `setState` call?
+## Why is it not advisable to update `state` directly, but use the `setState` call?
 
 The conventional way to update `state` is to use the `setState` call. Without using it, the user would still be able to modify the state, but it would not update the **DOM** to reflect the new state.
 
