@@ -1,15 +1,14 @@
 ## 6 must-have Chrome Extensions for Web Developers
 
-Since its release in 2008, the **Chrome** browser has seen exponential growth and as of **October 2021**, has a **68% worldwide browser market share**. Safe to say that the majority of **Web Developers** prefer using **Chrome**.
-
-**Extensions** add extra features and functions on top of your browser, enhancing the work and resulting in higher productivity. Let's take a look at some cool **Chrome Extensions** for **Web Developers**!
-
-# Extensions
-## Little disclaimer
+# Disclaimer
 Bear in mind that whats below is **what transpires from GCM's own list**. Also note that Im neither:
 * Chrome user (although I have Google Chrome installed),
 * affiliated in any way with Google.
 
+# Extensions
+Since its release in 2008, the **Chrome** browser has seen exponential growth and as of **October 2021**, has a **68% worldwide browser market share**. Safe to say that the majority of **Web Developers** prefer using **Chrome**.
+
+**Extensions** add extra features and functions on top of your browser, enhancing the work and resulting in higher productivity. Let's take a look at some cool **Chrome Extensions** for **Web Developers**!
 
 ## VisBug
 
