@@ -10,13 +10,13 @@ One of the most basic environment variables that you encounter on a daily basis 
 ## All caps
 Most of the environment variables are pre-defined by the system and are global variables so you'll encounter them often written in all caps.
 
-## Main goal of `EVs`
+## Main goal of `ENVs`
 Suppose you are a programmer and your code needs to have access to your database key which should never be shared in public.
 So what options do you have while sharing the entire code on Git? Wrap the database key to the environment variable.
 This way you can set instructions on Git as "if you want to make this code work, interchange this variable with your database key."
 Of course, this was the one way of using environment variables. So let's have a look at some common environment variables in Linux.
 
-Some most commonly used EVs are:
+Some most commonly used ENVs are:
 * `HOME`: Shows home directory for the current user
 * `HOSTNAME`: Contains Hostname of your system
 * `UID`:	Stores unique ID of the user
