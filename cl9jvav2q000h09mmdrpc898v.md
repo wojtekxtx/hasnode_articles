@@ -1,7 +1,5 @@
 # IDEs: Integrated Developer Enviromment
 
-Photo by [Procreator UX Design Studio](https://unsplash.com/@weareprocreator?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
 As someone with 20+ years of experience in REAL coding, I feel Im ready to write this.
 
 Problem is: every IDE out there has flaws. These flaws are either deliberately introduced (by motherfuckers like nikita popov from that shit [php.net](https://medium.com/u/515a3a6e2910) ), or as a form of mistake.
