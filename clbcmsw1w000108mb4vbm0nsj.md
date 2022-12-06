@@ -4,7 +4,7 @@ Once super assed, today almost shitty shit.
 
 # Joomla
 
-I typically dont write things about shitty shit, but SSS scam 22 !!!!!!!!
+I typically dont write things about shitty shit, but this time I feel I have to. Just to warn potential contributors.
 
 ## History
 
@@ -37,7 +37,6 @@ I agree with **everything** thats been written by Nicholas in the linked comment
 
 *   putting off volunteers from becoming contributors,
     
-
 *   making existing volunteers/contributors leave by ridiculing them. If this does not make them leave, he blocks them at organizational level. He also has a habit of blocking people just for criticizing Joomla ( thats [against their own Code of Conduct](https://github.com/joomla/joomla-cms/blob/4.2-dev/CODE_OF_CONDUCT.md) ),
     
 *   making many stupid, pointless decisions that makes project's quality deteriorate. Rapidly.
